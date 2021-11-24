@@ -95,8 +95,8 @@ while(True):
     print("2->sub")
     print("3->mul")
     print("4->div")
-    print("5->simplize")
-    print("6-exit")
+    
+    print("5-exit")
     n=int(input())
 
 
@@ -121,6 +121,6 @@ while(True):
         c.simple()
 
 
-    if n==6:
+    if n==5:
         print("goodbye")
         exit()         
