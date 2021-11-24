@@ -95,7 +95,6 @@ while(True):
     print("2->sub")
     print("3->mul")
     print("4->div")
-    
     print("5-exit")
     n=int(input())
 
